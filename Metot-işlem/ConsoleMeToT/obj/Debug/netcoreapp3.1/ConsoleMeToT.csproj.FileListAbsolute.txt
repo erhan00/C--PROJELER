@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.exe
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.deps.json
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.dll
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\bin\Debug\netcoreapp3.1\ConsoleMeToT.pdb
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.dll
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.pdb
+C:\Users\HP\source\repos\ConsoleMeToT\ConsoleMeToT\obj\Debug\netcoreapp3.1\ConsoleMeToT.genruntimeconfig.cache

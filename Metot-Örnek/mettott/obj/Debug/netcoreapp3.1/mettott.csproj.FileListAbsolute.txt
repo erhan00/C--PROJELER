@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.AssemblyInfo.cs
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.exe
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.deps.json
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.runtimeconfig.json
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.runtimeconfig.dev.json
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.dll
+C:\Users\HP\source\repos\mettott\mettott\bin\Debug\netcoreapp3.1\mettott.pdb
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.dll
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.pdb
+C:\Users\HP\source\repos\mettott\mettott\obj\Debug\netcoreapp3.1\mettott.genruntimeconfig.cache

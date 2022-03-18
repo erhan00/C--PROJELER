@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.exe
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.deps.json
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.dll
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.pdb
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.dll
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.pdb
+C:\Users\HP\source\repos\ConsoleApp07\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.dll
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.pdb
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.exe
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.deps.json
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.dll
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\bin\Debug\netcoreapp3.1\ConsoleApp07.pdb
+C:\Users\HP\source\repos\ConsoleApp07 sonkı\ConsoleApp07\obj\Debug\netcoreapp3.1\ConsoleApp07.genruntimeconfig.cache
